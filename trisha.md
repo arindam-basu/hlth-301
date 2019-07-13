@@ -625,6 +625,7 @@ ht_sd = mydata['Height'].std().round(2)
 
 
 ## Descriptive statistics
+
 | Variable | Mean | SD |
 |----------|------|----|
 | Height   | 171.58 | 16.08 |
@@ -656,6 +657,7 @@ Markdown("""
 
 
 ## Descriptive statistics
+
 | Variable | Mean | SD |
 |----------|------|----|
 | Weight (kg)  | 66.33     | 15.16  |
